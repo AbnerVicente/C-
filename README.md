@@ -1,2 +1,2 @@
 # C-
-Proyectos y programas hechos en el lenguaje de programación C++
+Programas basicos hechos en el lenguaje de c++
